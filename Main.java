@@ -32,4 +32,6 @@ public class Main {
         System.out.println("\nMédia de visualizações: " + media);
     }
 }
-https://www.onlinegdb.com/#tab-stdin
+
+
+// https://www.onlinegdb.com/#tab-stdin
